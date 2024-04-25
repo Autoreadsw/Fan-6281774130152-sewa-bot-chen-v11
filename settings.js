@@ -19,19 +19,19 @@ global.socialm = "Private" //ur github or insta name
 global.location = "Indonesian" //ur location
 
 //new
-global.botname = 'Miaw Bot' //ur bot name
-global.ownernumber = '6283857930779' //ur owner number
-global.ownername = 'Ikbal' //ur owner name
-global.websitex = "wa.me/6283857930779"
+global.botname = 'Casz' //ur bot name
+global.ownernumber = '6281774130152' //ur owner number
+global.ownername = 'Fan' //ur owner name
+global.websitex = "wa.me/6281774130152"
 global.wagc = "https://chat.whatsapp.com/BYjPByd44F0A84q8efdUHh"
 global.themeemoji = '🗿'
-global.wm = "Miaw Bot"
-global.botscript = 'https://chat.whatsapp.com/BYjPByd44F0A84q8efdUHh' //script link
+global.wm = "Casz"
+global.botscript = 'https://chat.whatsapp.com/EE162zvwsCZB3Ad2oj2Sir' //script link
 global.packname = "Sticker By"
-global.author = "Icaa\n+6283857930779"
-global.creator = "6283857930779@s.whatsapp.net"
+global.author = "Fan\n+6281774130152"
+global.creator = "6281774130152@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6283857930779"] // Premium User
+global.premium = ["6281774130152"] // Premium User
 global.hituet = 0
 
 //bot sett
