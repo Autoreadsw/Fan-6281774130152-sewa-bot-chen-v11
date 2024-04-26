@@ -20,18 +20,18 @@ global.location = "Indonesian" //ur location
 
 //new
 global.botname = 'Casz' //ur bot name
-global.ownernumber = '6281774130152' //ur owner number
+global.ownernumber = '6283877453743' //ur owner number
 global.ownername = 'Fan' //ur owner name
-global.websitex = "wa.me/6281774130152"
+global.websitex = "wa.me/6283877453743"
 global.wagc = "https://chat.whatsapp.com/Dg278DnCtj87zikSxx5IwC"
 global.themeemoji = '🗿'
 global.wm = "Casz"
 global.botscript = 'https://chat.whatsapp.com/Dg278DnCtj87zikSxx5IwC' //script link
 global.packname = "Sticker By"
-global.author = "Fan\n+6281774130152"
-global.creator = "6281774130152@s.whatsapp.net"
+global.author = "Fan\n+6283877453743"
+global.creator = "6283877453743@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6281774130152"] // Premium User
+global.premium = ["6283877453743"] // Premium User
 global.hituet = 0
 
 //bot sett
